@@ -7,6 +7,7 @@
       <a href="https://danielrh.ca/" target="_blank">
         <img height = 50em width = auto src="https://github.com/martinivnv/martinivnv/blob/main/logo.png" alt="Portfolio">
       </a>
+    </div>
   <p>👆 Click to check out my personal site!</p>
 </div>
 
