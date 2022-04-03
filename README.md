@@ -1,13 +1,11 @@
 <div align = center>
   <h1>👋 Hey, I’m Dan Huynh</h1>
-
-  <p>I'm a 1B Mechatronics Engineering student at the University of Waterloo! I'm passionate about innovation, software, and electro-mechanical design. I'm   currently exploring the robotics industry!</p>
-
-    <div>
-      <a href="https://danielrh.ca/" target="_blank">
-        <img height = 50em width = auto src="https://github.com/martinivnv/martinivnv/blob/main/logo.png" alt="Portfolio">
-      </a>
-    </div>
+  <p>I'm a 1B Mechatronics Engineering student at the University of Waterloo! I'm passionate about innovation, software, and electro-mechanical design. I'm currently exploring the robotics industry!</p>
+  <div>
+    <a href="https://danielrh.ca/" target="_blank">
+      <img height = 75px width = auto src="https://github.com/Danryanh7/Danryanh7/blob/main/logo.png" alt="Portfolio"/>
+    </a>
+  </div>
   <p>👆 Click to check out my personal site!</p>
 </div>
 
