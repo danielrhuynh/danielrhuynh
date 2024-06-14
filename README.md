@@ -3,14 +3,14 @@
   <p>I'm a 3A Mechatronics Engineering student at the University of Waterloo! I'm passionate about innovation, software, and electro-mechanical design. I'm currently exploring the robotics industry!</p>
   <div>
     <a href="https://danielrh.ca/">
-      <img height = 75px width = auto src="https://github.com/Danryanh7/Danryanh7/blob/main/logo.png" alt="Portfolio"/>
+      <img height = 75px width = auto src="https://github.com/danielrhuynh/danielrhuynh/blob/main/logo.png" alt="Portfolio"/>
     </a>
   </div>
   <p>👆 Click to check out my personal site!</p>
 </div>
 
-![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danryanh7&show_icons=true&theme=tokyonight&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danryanh7&layout=compact&theme=tokyonight)
+![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielrhuynh&show_icons=true&theme=tokyonight&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielrhuynh&layout=compact&theme=tokyonight)
 
 <!--
 **Danryanh7/Danryanh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
