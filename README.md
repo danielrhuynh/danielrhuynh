@@ -9,6 +9,11 @@
   <p>👆 Click to check out my personal site!</p>
 </div>
 
+<div align = center> 
+  View my unlisted repos <a href="https://danielrhuynh.github.io/quartz/03---Fleeting/Unlisted-Github-Repos">here</a>
+</div>
+<br>
+
 ![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielrhuynh&show_icons=true&theme=tokyonight&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielrhuynh&layout=compact&theme=tokyonight)
 
