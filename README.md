@@ -1,6 +1,6 @@
 <div align = center>
   <h1>👋 Hey, I’m Dan Huynh</h1>
-  <p>I'm a 3B Mechatronics Engineering student at the University of Waterloo! I'm passionate about innovation, software, and electro-mechanical design. I'm currently exploring the robotics industry!</p>
+  <p>I'm a 4A Mechatronics Engineering student at the University of Waterloo! I'm passionate about innovation, software, and electro-mechanical design. I'm currently exploring the robotics industry!</p>
   <div>
     <a href="https://danryanhuynh.ca/">
       <img height = 75px width = auto src="https://github.com/danielrhuynh/danielrhuynh/blob/main/logo.png" alt="Portfolio"/>
